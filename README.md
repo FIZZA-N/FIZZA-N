@@ -1,14 +1,7 @@
+AI Automation Engineer and Product Builder specializing in intelligent workflow systems, AI enabled platforms, and user centered digital experiences.
 
-==> 👋 Hi, I’m @FIZZA-N!
-==> 🌟 I’m a student at PIAIC Cloud and also working. I’m diving into JavaScript, TypeScript, HTML/CSS, and Python to become a Generative AI Engineer (GenEng).
-==> 🌱 When I'm not studying or working, I'm always looking for new experiences and learning opportunities.
-==> 💞️ I’m looking to collaborate on exciting projects where I can contribute and grow.
-==> 📫 Reach me at fizanayab5548@gmail.com or connect with me on LinkedIn --- www.linkedin.com/in/fizza-nayyab
-==> 🎓 I've completed the Python beginning course from Stanford University's Code in Place program and am currently pursuing the Technical Support Fundamentals course offered by Google.
+Experienced in designing and deploying booking platforms, automation pipelines, and scalable client solutions using Python, n8n, FastAPI, and modern low code frameworks.
 
-            (Let's create something awesome together!) 🚀
+Worked across healthcare, SaaS, and logistics environments to reduce manual operations through automation and AI assisted workflows.
 
-
-
-
-
+Currently advancing expertise in agentic AI systems, cloud native deployment, and workflow orchestration to support globally distributed teams and startups.
