@@ -1,4 +1,4 @@
-AI Automation Engineer and Product Builder specializing in intelligent workflow systems, AI enabled platforms, and user centered digital experiences.
+AI Product Builder specializing in intelligent workflow systems, AI enabled platforms, and user centered digital experiences.
 
 Experienced in designing and deploying booking platforms, automation pipelines, and scalable client solutions using Python, n8n, FastAPI, and modern low code frameworks.
 
